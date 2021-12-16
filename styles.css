@@ -9,6 +9,11 @@
 	top: 0px;
 }
 
+.salutation {
+  width: 300px;
+  z-index: -10;
+}
+
 body {
    display: flex;
    align-items: center;
