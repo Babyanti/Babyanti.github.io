@@ -1,18 +1,19 @@
 .image {
     width: 150px;
     top: 0px;
-    z-index: -1;
+    z-index: 1;
 }
 
 .magi {
 	width: 150px;
 	top: 0px;
+  z-index: 2;
 }
 
 .salutation {
   width: 500px;
   top: 0px;
-  z-index: -1;
+  z-index: 0;
 }
 
 body {
