@@ -10,8 +10,9 @@
 }
 
 .salutation {
-  width: 300px;
-  z-index: -10;
+  width: 700px;
+  top: 0px;
+  z-index: -1;
 }
 
 body {
